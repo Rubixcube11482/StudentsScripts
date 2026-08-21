@@ -1,6 +1,9 @@
 Simba — Setup & Instructions
+
 Need a simba that runs things pre-change?
+
 TransferNow: https://www.transfernow.net/dl/20260819wKXGCvIh
+
 MediaFire: https://www.mediafire.com/file/w18vwztorrkvs8j/Simba64-students.zip/file
 
 Keep in mind the TransferNow link will expire 7d from creation. 
