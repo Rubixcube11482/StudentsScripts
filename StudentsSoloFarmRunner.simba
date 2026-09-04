@@ -2270,7 +2270,7 @@ begin
 end;
 
 begin
-  WaspClient.CheckSubscription(True);
+ // WaspClient.CheckSubscription(True);
   SettingsHandler.CheckGPUPlugin();
 
   if (not DirectoryExists(AppPath+'\Resources\')) then
