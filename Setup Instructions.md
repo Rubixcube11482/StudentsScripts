@@ -2,7 +2,7 @@ Simba — Setup & Instructions
 
 Need a simba that runs things pre-change?
 
-MediaFire: https://www.mediafire.com/file/w18vwztorrkvs8j/Simba64-students.zip/file
+MediaFire: https://www.mediafire.com/file/vkdgjkx0vk7q49g/Simba64-students.zip/file (updated items as of Sept 30th)
 
 If you’d like to, my PayPal is below. No obligation whatsoever.
 https://www.paypal.com/ncp/payment/5WHJUCPX2HEW8
