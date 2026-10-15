@@ -1,3 +1,5 @@
+The scripts are free. If you've paid for them, you've been scammed.
+
 Simba — Setup & Instructions
 
 Need a simba that runs things pre-change?
